@@ -1,0 +1,17 @@
+
+#myCanvas {
+	position: absolute;
+	/*image-rendering: -moz-crisp-edges;
+	image-rendering: -webkit-crisp-edges;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;\
+	*/
+
+}
+
+body, html {
+	overflow: hidden;
+	background-color: black;
+}
+
+/*292A34/*
